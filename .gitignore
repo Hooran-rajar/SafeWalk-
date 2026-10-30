@@ -1,0 +1,35 @@
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+.idea/
+.vscode/
+android/.gradle/
+android/local.properties
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+*.iml
+.DS_Store
+.env
+
+# Additional environment files
+.env.*
+!.env.example
+!.env.sample
+
+# Private signing keys
+*.jks
+*.keystore
+key.properties
+
+# Service account credentials
+service-account*.json
+*-service-account*.json
+
+# Flutter generated files
+coverage/
