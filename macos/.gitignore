@@ -5,3 +5,8 @@
 # Xcode-related
 **/dgph
 **/xcuserdata/
+# Firebase & Secret Configs (Bohat Zaroori)
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+*.env
+.env*
